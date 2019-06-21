@@ -21,5 +21,10 @@ namespace test0621_gitPratice
         {
             button1.Text = "OK";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.Text = "Okie dogie";
+        }
     }
 }
